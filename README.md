@@ -4,10 +4,7 @@
 
 # Superstore Sales Performance  Dashboard  
 
-## Dataset used
-<a href="https://github.com/abhishekpatodi72-cmd/-SCT_DA_1-/blob/main/train.csv"> Dataset view</a> 
-dashboard <a href="https://github.com/abhishekpatodi72-cmd/-SCT_DA_1-/blob/main/image1.png">dashboard view</a> 
-<img width="1536" height="1024" alt="image1" src="https://github.com/user-attachments/assets/75664d75-0aee-49f5-becd-ca477733eaa8" />
+
 
 
 This project is a comprehensive **Superstore Sales Dashboard** built using Microsoft Excel. It provides a data-driven overview of a retail store's performance across various regions, categories, and time periods, enabling stakeholders to make informed business decisions.
